@@ -5,7 +5,7 @@ import re
 import threading
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8842792581:AAHTvqb_gUFUc62jpyHQET6s313mLIyvLYE"  # замени на свой, если другой
+TOKEN = "8842792581:AAG1FOE3kPN3ZQpMc6C-uuKZLKXizbRtDjs"  # замени на свой, если другой
 bot = telebot.TeleBot(TOKEN)
 
 # === ХРАНИЛИЩА ===
