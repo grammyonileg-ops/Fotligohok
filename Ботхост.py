@@ -7,7 +7,7 @@ import socket
 import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8842792581:AAG1FOE3kPN3ZQpMc6C-uuKZLKXizbRtDjs"
+TOKEN = "uuKZLKXizbRtDjs"
 bot = telebot.TeleBot(TOKEN)
 
 # === ДАННЫЕ ===
