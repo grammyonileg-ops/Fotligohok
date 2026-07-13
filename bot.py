@@ -7,10 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ==================== НАСТРОЙКИ ====================
-BOT_TOKEN = "8853561670:AAFAreEn5xVQxAqYexAjs2BxZomrWif3c80"
-OWNER_ID = 1878424808
-SUBGRAM_API_KEY = "cd401bb4cae150d2d842a92657dbf2ec7cf634abc0651f2742e735148d5a28af"
-SUBGRAM_SECRET = "b882a6d46d52df45c8a4ee82b22192dd35b16a78b720b81906805309dfc48966"
+"
 
 DB_CONFIG = {
     "host": "localhost",
